@@ -16,7 +16,7 @@ export const Nav = () => {
   return (
     <header className="border-b border-border bg-background sticky top-0 z-40">
       <div className="container-page flex items-center justify-between h-16 gap-4">
-        <a href="#" aria-label="saha.team" className="text-foreground">
+        <a href="#" aria-label="deskless.team" className="text-foreground">
           <Logo />
         </a>
         <nav className="hidden md:flex items-center gap-8">
