@@ -151,6 +151,8 @@ const tr: Dict = {
   "modal.err.phoneFormat": "Geçerli bir telefon girin",
   "modal.err.email": "Geçerli bir e-posta girin",
   "modal.err.emailMax": "E-posta en fazla 255 karakter olabilir",
+  "modal.err.submit": "Gönderim başarısız",
+  "modal.err.submitDesc": "Lütfen tekrar deneyin veya info@toola.net adresine yazın.",
 };
 
 const en: Dict = {
@@ -301,6 +303,8 @@ const en: Dict = {
   "modal.err.phoneFormat": "Enter a valid phone number",
   "modal.err.email": "Enter a valid email",
   "modal.err.emailMax": "Email must be at most 255 characters",
+  "modal.err.submit": "Submission failed",
+  "modal.err.submitDesc": "Please try again or reach us at info@toola.net.",
 };
 
 const dictionaries: Record<Lang, Dict> = { tr, en };
