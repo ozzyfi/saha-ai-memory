@@ -17,11 +17,11 @@ const tr: Dict = {
   "hero.title.accent": "AI'ın kullanabileceği",
   "hero.title.after": " operasyon hafızasına dönüştürün.",
   "hero.desc":
-    "WhatsApp mesajları, fotoğraflar, sesli notlar ve formlar artık kaybolmuyor. deskless.team bunları görev, kanıt, aksiyon ve kapanış kayıtlarına çevirir; siz de şirketinizin izin verdiği AI ile bu veriye anında soru sorabilirsiniz.",
+    "WhatsApp mesajı, fotoğraf, sesli not — deskless.team bunları yapılandırır ve şirketinizin izin verdiği AI ile sorgulanabilir hale getirir.",
   "hero.badge.1": "Veriniz sizde kalır",
-  "hero.badge.2": "Kendi AI'ınızı getirin",
-  "hero.badge.3": "WhatsApp + mobil + form",
-  "hero.badge.4": "2–4 haftada pilot",
+  "hero.badge.2": "2–4 haftada pilot",
+  "hero.badge.3": "",
+  "hero.badge.4": "",
 
   "preview.workspace": "Demo Workspace",
   "preview.subtitle": "Field memory stream",
@@ -166,11 +166,11 @@ const en: Dict = {
   "hero.title.accent": "AI-ready",
   "hero.title.after": " operations memory.",
   "hero.desc":
-    "WhatsApp messages, photos, voice notes and forms no longer get lost. deskless.team turns them into tasks, evidence, actions and closure records — so you can query that data instantly with the AI your company has approved.",
+    "WhatsApp, photos, voice notes — structured and queryable by the AI your company has approved.",
   "hero.badge.1": "Your data stays with you",
-  "hero.badge.2": "Bring your own AI",
-  "hero.badge.3": "WhatsApp + mobile + forms",
-  "hero.badge.4": "Pilot in 2–4 weeks",
+  "hero.badge.2": "Pilot in 2–4 weeks",
+  "hero.badge.3": "",
+  "hero.badge.4": "",
 
   "preview.workspace": "Demo Workspace",
   "preview.subtitle": "Field memory stream",
