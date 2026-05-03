@@ -17,7 +17,7 @@ const tr: Dict = {
   "hero.title.accent": "AI'ın kullanabileceği",
   "hero.title.after": " operasyon hafızasına dönüştürün.",
   "hero.desc":
-    "WhatsApp mesajları, fotoğraflar, sesli notlar ve formlar artık kaybolmuyor. saha.team bunları görev, kanıt, aksiyon ve kapanış kayıtlarına çevirir; siz de şirketinizin izin verdiği AI ile bu veriye anında soru sorabilirsiniz.",
+    "WhatsApp mesajları, fotoğraflar, sesli notlar ve formlar artık kaybolmuyor. deskless.team bunları görev, kanıt, aksiyon ve kapanış kayıtlarına çevirir; siz de şirketinizin izin verdiği AI ile bu veriye anında soru sorabilirsiniz.",
   "hero.badge.1": "Veriniz sizde kalır",
   "hero.badge.2": "Kendi AI'ınızı getirin",
   "hero.badge.3": "WhatsApp + mobil + form",
@@ -57,7 +57,7 @@ const tr: Dict = {
   "how.title": "Dağınık veri girer. AI-ready hafıza çıkar.",
   "how.1.title": "Topla",
   "how.1.body":
-    "Ekibiniz alışkanlıklarını değiştirmiyor. WhatsApp mesajı, mobil fotoğraf, sesli not, form — hepsi saha.team'e akar.",
+    "Ekibiniz alışkanlıklarını değiştirmiyor. WhatsApp mesajı, mobil fotoğraf, sesli not, form — hepsi deskless.team'e akar.",
   "how.2.title": "Yapılandır",
   "how.2.body":
     "Gelen veri otomatik olarak görev, lokasyon, kanıt, aksiyon ve ekipman hafızasına dönüşür. Örnek: \"Rulman değişti, ses düzeldi\" → işlem kaydı + parça + sonuç + ekipman geçmişi.",
@@ -73,12 +73,12 @@ const tr: Dict = {
     "Teknik servis ve tesis ekipleri için. Arıza kaydı, parça takibi, ekipman geçmişi ve kapanış.",
   "mod.1.tag1": "Arıza",
   "mod.1.tag2": "Ekipman",
-  "mod.2.name": "saha.team Denetim",
+  "mod.2.name": "deskless.team Denetim",
   "mod.2.body":
     "Kalite, HSE ve raf kontrol ekipleri için. Kontrol listesi, fotoğraf kanıtı, uygunsuzluk ve aksiyon.",
   "mod.2.tag1": "HSE",
   "mod.2.tag2": "Kalite",
-  "mod.3.name": "saha.team Operasyon",
+  "mod.3.name": "deskless.team Operasyon",
   "mod.3.body":
     "Konaklama, perakende, F&B ve lojistik gibi lokasyon bazlı ekipler için. Görev, vardiya, lokasyon ve misafir/müşteri talebi.",
   "mod.3.tag1": "Vardiya",
@@ -86,7 +86,7 @@ const tr: Dict = {
 
   "dq.title": "AI'dan önce saha verinizin kalitesini görün.",
   "dq.desc":
-    "Çoğu sistem sadece veri toplar. saha.team eksik, belirsiz veya kanıtsız saha kayıtlarını tespit eder ve veriyi AI'ın gerçekten kullanabileceği kaliteye getirir.",
+    "Çoğu sistem sadece veri toplar. deskless.team eksik, belirsiz veya kanıtsız saha kayıtlarını tespit eder ve veriyi AI'ın gerçekten kullanabileceği kaliteye getirir.",
   "dq.scoreLabel": "Veri Kalitesi Skoru",
   "dq.scoreSub": "AI-ready kayıt kalitesi",
   "dq.issue.1": "Eksik kök nedenler",
@@ -96,7 +96,7 @@ const tr: Dict = {
 
   "ai.title": "Hangi AI'ı kullanacağınızı siz seçin.",
   "ai.desc":
-    "saha.team kendi modelini dayatmaz. Verinizi düzenler ve şirketinizin izin verdiği modele güvenli şekilde açar.",
+    "deskless.team kendi modelini dayatmaz. Verinizi düzenler ve şirketinizin izin verdiği modele güvenli şekilde açar.",
   "ai.desc2":
     "Mobil uygulamadaki saha ekipleri de yalnızca şirketinizin izin verdiği AI ile çalışır.",
 
@@ -124,7 +124,7 @@ const tr: Dict = {
 
   "footer.address.l1": "Teknopark İstanbul",
   "footer.address.l2": "Pendik, İstanbul",
-  "footer.copy": "© 2026 saha.team",
+  "footer.copy": "© 2026 deskless.team",
 
   "modal.eyebrow": "2–4 haftalık pilot",
   "modal.title": "Pilotunuzu başlatın",
@@ -166,7 +166,7 @@ const en: Dict = {
   "hero.title.accent": "AI-ready",
   "hero.title.after": " operations memory.",
   "hero.desc":
-    "WhatsApp messages, photos, voice notes and forms no longer get lost. saha.team turns them into tasks, evidence, actions and closure records — so you can query that data instantly with the AI your company has approved.",
+    "WhatsApp messages, photos, voice notes and forms no longer get lost. deskless.team turns them into tasks, evidence, actions and closure records — so you can query that data instantly with the AI your company has approved.",
   "hero.badge.1": "Your data stays with you",
   "hero.badge.2": "Bring your own AI",
   "hero.badge.3": "WhatsApp + mobile + forms",
@@ -207,7 +207,7 @@ const en: Dict = {
   "how.title": "Messy data in. AI-ready memory out.",
   "how.1.title": "Capture",
   "how.1.body":
-    "Your team doesn't change habits. WhatsApp messages, mobile photos, voice notes, forms — all flow into saha.team.",
+    "Your team doesn't change habits. WhatsApp messages, mobile photos, voice notes, forms — all flow into deskless.team.",
   "how.2.title": "Structure",
   "how.2.body":
     "Incoming data is automatically turned into tasks, locations, evidence, actions and equipment memory. Example: \"Bearing replaced, noise gone\" → work record + part + outcome + equipment history.",
@@ -223,12 +223,12 @@ const en: Dict = {
     "For technical service and facility teams. Fault tickets, part tracking, equipment history and closure.",
   "mod.1.tag1": "Faults",
   "mod.1.tag2": "Equipment",
-  "mod.2.name": "saha.team Audit",
+  "mod.2.name": "deskless.team Audit",
   "mod.2.body":
     "For quality, HSE and shelf control teams. Checklists, photo evidence, non-conformities and actions.",
   "mod.2.tag1": "HSE",
   "mod.2.tag2": "Quality",
-  "mod.3.name": "saha.team Operations",
+  "mod.3.name": "deskless.team Operations",
   "mod.3.body":
     "For location-based teams in hospitality, retail, F&B and logistics. Tasks, shifts, locations and guest/customer requests.",
   "mod.3.tag1": "Shift",
@@ -236,7 +236,7 @@ const en: Dict = {
 
   "dq.title": "See the quality of your field data before AI does.",
   "dq.desc":
-    "Most systems just collect data. saha.team detects incomplete, ambiguous or unverified field records and brings the data to a quality level AI can actually use.",
+    "Most systems just collect data. deskless.team detects incomplete, ambiguous or unverified field records and brings the data to a quality level AI can actually use.",
   "dq.scoreLabel": "Data Quality Score",
   "dq.scoreSub": "AI-ready record quality",
   "dq.issue.1": "Missing root causes",
@@ -246,7 +246,7 @@ const en: Dict = {
 
   "ai.title": "You choose which AI to use.",
   "ai.desc":
-    "saha.team doesn't impose a model. It structures your data and securely opens it to whichever model your company permits.",
+    "deskless.team doesn't impose a model. It structures your data and securely opens it to whichever model your company permits.",
   "ai.desc2":
     "Field teams on the mobile app also only work with the AI your company has approved.",
 
@@ -274,7 +274,7 @@ const en: Dict = {
 
   "footer.address.l1": "Teknopark İstanbul",
   "footer.address.l2": "Pendik, İstanbul",
-  "footer.copy": "© 2026 saha.team",
+  "footer.copy": "© 2026 deskless.team",
 
   "modal.eyebrow": "2–4 week pilot",
   "modal.title": "Start your pilot",
