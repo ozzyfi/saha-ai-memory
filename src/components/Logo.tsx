@@ -39,7 +39,7 @@ export const Logo = ({ className, showWordmark = true }: LogoProps) => (
     </svg>
     {showWordmark && (
       <span className="text-[15px] font-semibold tracking-tight leading-none">
-        saha.team
+        deskless.team
       </span>
     )}
   </span>

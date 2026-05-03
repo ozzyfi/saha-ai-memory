@@ -315,9 +315,9 @@ const I18nContext = createContext<Ctx | null>(null);
 
 export const I18nProvider = ({ children }: { children: ReactNode }) => {
   const [lang, setLangState] = useState<Lang>(() => {
-    if (typeof window === "undefined") return "tr";
+    if (typeof window === "undefined") return "en";
     const saved = window.localStorage.getItem("saha.lang");
-    return saved === "en" || saved === "tr" ? saved : "tr";
+    return saved === "en" || saved === "tr" ? saved : "en";
   });
 
   useEffect(() => {
