@@ -82,7 +82,7 @@ export const PilotModal = () => {
           company: parsed.data.company,
           phone: parsed.data.phone,
           email: parsed.data.email,
-          _subject: `deskless.team — Yeni Pilot Talebi: ${parsed.data.company}`,
+          _subject: `deskless.team — New Pilot Request: ${parsed.data.company}`,
         }),
       });
       if (!res.ok) throw new Error("submit_failed");
