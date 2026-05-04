@@ -8,7 +8,7 @@ export const Logo = ({ className }: LogoProps) => (
     <img
       src="/brand/deskless-team-logo-trimmed.png"
       alt="deskless.team"
-      className="h-7 md:h-[34px] w-auto block"
+      className="h-5 md:h-6 w-auto block"
       style={{ objectFit: "contain" }}
     />
   </span>
